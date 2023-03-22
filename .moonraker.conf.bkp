@@ -7,11 +7,13 @@ max_upload_size = 1024
 enable_object_processing = True
 
 [authorization]
+force_logins = True
 cors_domains = 
-	https://my.mainsail.xyz
+	http://my.mainsail.xyz
 	http://my.mainsail.xyz
 	http://*.local
 	http://*.lan
+	http://app.mainsail.xyz
 trusted_clients = 
 	10.0.0.0/8
 	127.0.0.0/8
@@ -22,9 +24,8 @@ trusted_clients =
 	::1/128
 	127.0.0.1
 	100.112.183.55
-	100.119.127.64
-	100.82.207.12
 	100.113.16.38
+	100.93.126.16
 
 [octoprint_compat]
 
