@@ -59,6 +59,7 @@ managed_services = klipper moonraker
 type = git_repo
 path = ~/crowsnest
 origin = https://github.com/mainsail-crew/crowsnest.git
+install_script = tools/pkglist.sh
 managed_services = crowsnest
 
 [update_manager sonar]
