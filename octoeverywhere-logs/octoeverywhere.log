@@ -1,0 +1,179 @@
+2023-10-31 14:27:19,595 - INFO - ##################################
+2023-10-31 14:27:19,595 - INFO - #### OctoEverywhere Starting #####
+2023-10-31 14:27:19,596 - INFO - ##################################
+2023-10-31 14:27:19,596 - INFO - Plugin Version: 2.8.2
+2023-10-31 14:27:19,597 - INFO - Our update config include was not found in the moonraker config, so we added it.
+2023-10-31 14:27:19,598 - INFO - No update config found or it was out of date, writing a new file.
+2023-10-31 14:27:19,598 - INFO - No config file was found on disk, so we are going to attempt to restart moonraker.
+2023-10-31 14:27:20,642 - INFO - No printer id was found, generating one now!
+2023-10-31 14:27:20,668 - INFO - New printer id created: I9K96SSEY1TR8BR3SIWI2S39EV6HOCBRADYKWJSYEOD67NP4TR4M407MOAV0
+2023-10-31 14:27:20,669 - INFO - No private key was found, generating one now!
+2023-10-31 14:27:20,691 - INFO - New private key created.
+2023-10-31 14:27:20,692 - INFO - Failed to find moonraker allowed services file.
+2023-10-31 14:27:20,693 - INFO - MDns cache file reset
+2023-10-31 14:27:20,696 - INFO - Setting up relay with frontend port 80
+2023-10-31 14:27:20,696 - INFO - OctoPingPong stats reset
+2023-10-31 14:27:20,698 - INFO - PingPong has detected a first time run. Updating latency stats now.
+2023-10-31 14:27:20,701 - INFO - No existing ui tags found, so we added them
+2023-10-31 14:27:20,702 - INFO - Updating the sw.js index.html revision [faff81afba3ede04beab4de9513d985a] -> [kwy494z4aay0j55fkmv2eccs2be1uh3e]
+2023-10-31 14:27:20,703 - INFO - Sw.js [/home/pi/mainsail/sw.js] updated.
+2023-10-31 14:27:20,956 - INFO - MoonrakerApiRouter using bound to moonraker at 0.0.0.0:7125
+2023-10-31 14:27:20,958 - INFO - Attempting to talk to OctoEverywhere, server con wss://starport-v1.octoeverywhere.com/octoclientws[1] wsId:4136534512
+2023-10-31 14:27:21,446 - INFO - Websocket connected
+2023-10-31 14:27:21,447 - INFO - Connected To OctoEverywhere, server con wss://starport-v1.octoeverywhere.com/octoclientws[1]. Starting handshake...
+2023-10-31 14:27:21,939 - INFO - Handshake complete, server con wss://starport-v1.octoeverywhere.com/octoclientws[1], successfully connected to OctoEverywhere!
+2023-10-31 14:27:21,940 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-10-31 14:27:21,940 - WARNING - 
+2023-10-31 14:27:21,941 - WARNING - 
+2023-10-31 14:27:21,941 - WARNING - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-10-31 14:27:21,942 - WARNING - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-10-31 14:27:21,942 - WARNING -           This Plugin Isn't Connected To OctoEverywhere!          
+2023-10-31 14:27:21,942 - WARNING -  Use the following link to finish the setup and get remote access:
+2023-10-31 14:27:21,943 - WARNING -  https://octoeverywhere.com/getstarted?isFromKlipper=true&printerid=I9K96SSEY1TR8BR3SIWI2S39EV6HOCBRADYKWJSYEOD67NP4TR4M407MOAV0
+2023-10-31 14:27:21,943 - WARNING - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-10-31 14:27:21,943 - WARNING - ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-10-31 14:27:21,944 - WARNING - 
+2023-10-31 14:27:21,944 - WARNING - 
+2023-10-31 14:27:21,944 - INFO - Starting Moonraker connection client.
+2023-10-31 14:27:21,945 - INFO - Moonraker client starting websocket connection thread.
+2023-10-31 14:27:21,949 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-10-31 14:27:21,951 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-10-31 14:27:21,951 - ERROR - [Errno 111] Connection refused - goodbye
+2023-10-31 14:27:21,952 - INFO - Moonraker websocket connection closed.
+2023-10-31 14:27:21,953 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-10-31 14:27:23,956 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-10-31 14:27:23,959 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-10-31 14:27:23,959 - ERROR - [Errno 111] Connection refused - goodbye
+2023-10-31 14:27:23,960 - INFO - Moonraker websocket connection closed.
+2023-10-31 14:27:23,961 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-10-31 14:27:25,953 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-10-31 14:27:25,953 - INFO - Moonraker client failed to send JsonRPC request server.webcams.list
+2023-10-31 14:27:25,954 - WARNING - Moonraker webcam helper failed to query for webcams from API. 99990001 - No active websocket connected.
+2023-10-31 14:27:25,954 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-10-31 14:27:25,955 - INFO - Moonraker client failed to send JsonRPC request server.database.get_item
+2023-10-31 14:27:25,955 - WARNING - Moonraker webcam helper failed to query for webcams. 99990001 - No active websocket connected.
+2023-10-31 14:27:25,966 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-10-31 14:27:25,968 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-10-31 14:27:25,968 - ERROR - [Errno 111] Connection refused - goodbye
+2023-10-31 14:27:25,969 - INFO - Moonraker websocket connection closed.
+2023-10-31 14:27:25,969 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-10-31 14:27:27,978 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-10-31 14:27:27,981 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-10-31 14:27:27,982 - ERROR - [Errno 111] Connection refused - goodbye
+2023-10-31 14:27:27,984 - INFO - Moonraker websocket connection closed.
+2023-10-31 14:27:27,984 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-10-31 14:27:29,990 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-10-31 14:27:30,000 - INFO - Websocket connected
+2023-10-31 14:27:30,001 - INFO - Moonraker client websocket opened.
+2023-10-31 14:27:30,002 - INFO - Moonraker client waiting for klippy ready...
+2023-10-31 14:27:30,002 - INFO - Authenticating with moonraker...
+2023-10-31 14:27:30,316 - INFO - Moonraker client waiting for klippy ready...
+2023-10-31 14:27:30,319 - INFO - Moonraker client klippy state is ready. Moonraker connection is ready and stable.
+2023-10-31 14:27:30,320 - INFO - Moonraker client setting up default notification hooks
+2023-10-31 14:27:30,872 - INFO - Printer state at socket connect is: complete
+2023-10-31 14:27:30,873 - INFO - Moonraker client sync state: Detected no active print and no ping timers are running, so there's nothing to do.
+2023-10-31 14:28:24,015 - INFO - FileMetadataCache updated for file [.4Nozzle/PLA/Spin Cube.gcode]; est time: 2522.0, size: 3842, filament usage: 4957
+2023-10-31 14:42:20,801 - INFO - Updating server latencies...
+2023-10-31 14:42:33,585 - INFO - Ping Pong Stats: Default:[tor,71.05064392089844], Lowest:[tor,71.05064392089844] Use Low Latency Enabled: True
+2023-10-31 14:42:33,586 - INFO - First run latency callback fired, disconnecting primary OctoStream to reconnect to most ideal latency server. Current: wss://starport-v1.octoeverywhere.com/octoclientws[1].
+2023-10-31 14:42:33,586 - INFO - Closing all open web stream sockets (0)
+2023-10-31 14:42:33,586 - INFO - OctoServerCon websocket close start. IsPrimary?:True; wsId:4136534512
+2023-10-31 14:42:33,706 - INFO - Service websocket closed.
+2023-10-31 14:42:33,707 - INFO - OctoServerCon disconnect complete.
+2023-10-31 14:42:33,710 - INFO - Disconnected from OctoEverywhere, server con wss://starport-v1.octoeverywhere.com/octoclientws[1]
+2023-10-31 14:42:33,711 - INFO - Closing all open web stream sockets (0)
+2023-10-31 14:42:33,712 - INFO - Skipping reconnect delay due to instant reconnect request.
+2023-10-31 14:42:33,712 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-10-31 14:42:33,713 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[2] wsId:4113887416
+2023-10-31 14:42:34,029 - INFO - Websocket connected
+2023-10-31 14:42:34,031 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[2]. Starting handshake...
+2023-10-31 14:42:34,226 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[2], successfully connected to OctoEverywhere!
+2023-10-31 14:42:34,227 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-10-31 14:48:17,269 - INFO - Websocket connected
+2023-10-31 14:48:17,271 - INFO - Web Stream ws   [29] opened, attempt 1 after 0.012412548065185547 seconds
+2023-10-31 14:48:17,283 - INFO - Web Stream ws   [29] first message sent to local server after 0.024353981018066406 seconds
+2023-10-31 14:48:20,049 - INFO - Websocket connected
+2023-10-31 14:48:20,050 - INFO - Web Stream ws   [34] opened, attempt 1 after 0.010338306427001953 seconds
+2023-10-31 14:48:20,064 - INFO - Web Stream ws   [34] first message sent to local server after 0.02358865737915039 seconds
+2023-10-31 14:48:42,280 - INFO - Web Stream ws   [29] websocket closed after 25.021050930023193 seconds
+2023-10-31 14:48:42,287 - INFO - Web Stream ws   [34] websocket closed after 22.24663996696472 seconds
+2023-10-31 14:50:09,703 - INFO - Websocket connected
+2023-10-31 14:50:09,706 - INFO - Web Stream ws   [74] opened, attempt 1 after 0.020737886428833008 seconds
+2023-10-31 14:50:09,712 - INFO - Web Stream ws   [74] first message sent to local server after 0.026894569396972656 seconds
+2023-10-31 14:53:54,830 - INFO - Web Stream ws   [74] websocket closed after 225.14559364318848 seconds
+2023-10-31 15:04:57,418 - INFO - Websocket connected
+2023-10-31 15:04:57,420 - INFO - Web Stream ws   [187] opened, attempt 1 after 0.011596918106079102 seconds
+2023-10-31 15:04:57,440 - INFO - Web Stream ws   [187] websocket closed after 0.0317990779876709 seconds
+2023-10-31 15:05:02,343 - INFO - Websocket connected
+2023-10-31 15:05:02,345 - INFO - Web Stream ws   [188] opened, attempt 1 after 0.017454862594604492 seconds
+2023-10-31 15:05:02,360 - INFO - Web Stream ws   [188] first message sent to local server after 0.03233957290649414 seconds
+2023-10-31 15:05:49,301 - WARNING - We got a web stream message for a stream id [216] that doesn't exist and isn't an open message. IsClose:True
+2023-10-31 15:13:57,708 - INFO - Web Stream ws   [188] websocket closed after 535.3797659873962 seconds
+2023-10-31 15:19:09,969 - INFO - Websocket connected
+2023-10-31 15:19:09,971 - INFO - Web Stream ws   [236] opened, attempt 1 after 0.021490097045898438 seconds
+2023-10-31 15:19:09,996 - INFO - Web Stream ws   [236] first message sent to local server after 0.04673004150390625 seconds
+2023-10-31 15:19:23,360 - WARNING - We got a web stream message for a stream id [239] that doesn't exist and isn't an open message. IsClose:True
+2023-10-31 15:21:42,651 - INFO - Web Stream ws   [236] websocket closed after 152.70168614387512 seconds
+2023-10-31 15:30:37,088 - INFO - Websocket connected
+2023-10-31 15:30:37,089 - INFO - Web Stream ws   [301] opened, attempt 1 after 0.009770631790161133 seconds
+2023-10-31 15:30:37,190 - INFO - Web Stream ws   [301] websocket closed after 0.11073565483093262 seconds
+2023-10-31 15:30:42,050 - INFO - Websocket connected
+2023-10-31 15:30:42,052 - INFO - Web Stream ws   [302] opened, attempt 1 after 0.019889116287231445 seconds
+2023-10-31 15:30:42,058 - INFO - Web Stream ws   [302] first message sent to local server after 0.026011943817138672 seconds
+2023-10-31 15:32:29,939 - INFO - Web Stream ws   [302] websocket closed after 107.90706133842468 seconds
+2023-10-31 15:45:11,451 - INFO - Web Stream ws   [318] websocket closed after 0.0062787532806396484 seconds
+2023-10-31 15:45:11,464 - INFO - Websocket connected
+2023-10-31 15:45:11,466 - INFO - Web Stream ws   [318] opened, attempt 1 after 0.02141261100769043 seconds
+2023-10-31 15:45:11,467 - ERROR - 'NoneType' object has no attribute 'sock' - goodbye
+2023-10-31 15:45:18,693 - INFO - Websocket connected
+2023-10-31 15:45:18,694 - INFO - Web Stream ws   [319] opened, attempt 1 after 0.011221170425415039 seconds
+2023-10-31 15:45:18,721 - INFO - Web Stream ws   [319] first message sent to local server after 0.03809714317321777 seconds
+2023-10-31 15:47:15,570 - INFO - Web Stream ws   [319] websocket closed after 116.8868043422699 seconds
+2023-10-31 16:28:56,042 - INFO - Websocket connected
+2023-10-31 16:28:56,043 - INFO - Web Stream ws   [343] opened, attempt 1 after 0.01040506362915039 seconds
+2023-10-31 16:28:56,052 - INFO - Web Stream ws   [343] websocket closed after 0.01980304718017578 seconds
+2023-10-31 16:29:00,982 - INFO - Websocket connected
+2023-10-31 16:29:00,984 - INFO - Web Stream ws   [344] opened, attempt 1 after 0.019872188568115234 seconds
+2023-10-31 16:29:00,994 - INFO - Web Stream ws   [344] first message sent to local server after 0.029985904693603516 seconds
+2023-10-31 16:35:14,554 - ERROR - OctoEverywhere Ws error: [Errno 104] Connection reset by peer
+2023-10-31 16:35:14,557 - ERROR - [Errno 104] Connection reset by peer - goodbye
+2023-10-31 16:35:14,558 - INFO - Service websocket closed.
+2023-10-31 16:35:14,564 - INFO - Disconnected from OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[2]
+2023-10-31 16:35:14,566 - INFO - Closing all open web stream sockets (1)
+2023-10-31 16:35:14,568 - INFO - Web Stream ws   [344] websocket closed after 373.6037700176239 seconds
+2023-10-31 16:35:14,572 - INFO - Sleeping for 3 seconds before trying again.
+2023-10-31 16:35:17,576 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-10-31 16:35:17,577 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[3] wsId:4103661552
+2023-10-31 16:35:18,213 - INFO - Websocket connected
+2023-10-31 16:35:18,215 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[3]. Starting handshake...
+2023-10-31 16:35:18,934 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[3], successfully connected to OctoEverywhere!
+2023-10-31 16:35:18,935 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-10-31 16:42:21,529 - ERROR - OctoEverywhere Ws error: Connection to remote host was lost.
+2023-10-31 16:42:21,530 - ERROR - Connection to remote host was lost. - goodbye
+2023-10-31 16:42:21,535 - INFO - Service websocket closed.
+2023-10-31 16:42:21,539 - INFO - Disconnected from OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[3]
+2023-10-31 16:42:21,542 - INFO - Closing all open web stream sockets (0)
+2023-10-31 16:42:21,543 - INFO - Sleeping for 11 seconds before trying again.
+2023-10-31 16:42:32,555 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-10-31 16:42:32,557 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[4] wsId:4103662512
+2023-10-31 16:42:33,436 - INFO - Websocket connected
+2023-10-31 16:42:33,438 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[4]. Starting handshake...
+2023-10-31 16:42:53,104 - ERROR - Handshake failed, reason 'Failed to talk to database.'
+2023-10-31 16:42:53,105 - ERROR - Session reported an error [wss://tor.octoeverywhere.com/octoclientws[4]], closing the websocket. Backoff time sec: 27
+2023-10-31 16:42:53,105 - INFO - Closing all open web stream sockets (0)
+2023-10-31 16:42:53,106 - INFO - OctoServerCon websocket close start. IsPrimary?:True; wsId:4103662512
+2023-10-31 16:42:53,108 - INFO - OctoServerCon disconnect complete.
+2023-10-31 16:42:53,113 - INFO - Service websocket closed.
+2023-10-31 16:42:53,115 - INFO - Disconnected from OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[4]
+2023-10-31 16:42:53,116 - INFO - Closing all open web stream sockets (0)
+2023-10-31 16:42:53,117 - INFO - Sleeping for 35 seconds before trying again.
+2023-10-31 16:43:28,153 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-10-31 16:43:28,154 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[5] wsId:4141109912
+2023-10-31 16:43:28,674 - INFO - Websocket connected
+2023-10-31 16:43:28,676 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[5]. Starting handshake...
+2023-10-31 16:43:29,093 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[5], successfully connected to OctoEverywhere!
+2023-10-31 16:43:29,094 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
