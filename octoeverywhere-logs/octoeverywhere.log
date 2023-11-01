@@ -177,3 +177,23 @@
 2023-10-31 16:43:28,676 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[5]. Starting handshake...
 2023-10-31 16:43:29,093 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[5], successfully connected to OctoEverywhere!
 2023-10-31 16:43:29,094 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-11-01 09:01:09,683 - ERROR - OctoEverywhere Ws error: Connection timed out
+2023-11-01 09:01:09,683 - ERROR - Connection timed out - goodbye
+2023-11-01 09:01:09,688 - INFO - Service websocket closed.
+2023-11-01 09:01:09,693 - INFO - Disconnected from OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[5]
+2023-11-01 09:01:09,696 - INFO - Closing all open web stream sockets (0)
+2023-11-01 09:01:09,697 - INFO - Sleeping for 3 seconds before trying again.
+2023-11-01 09:01:12,701 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-11-01 09:01:12,701 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[6] wsId:4103661120
+2023-11-01 09:01:22,711 - INFO - Blocking lowest latency endpoint, since we failed while the WS connect was happening.
+2023-11-01 09:01:22,711 - ERROR - [Errno -3] Temporary failure in name resolution - goodbye
+2023-11-01 09:01:22,712 - ERROR - OctoEverywhere Ws error: [Errno -3] Temporary failure in name resolution
+2023-11-01 09:01:22,712 - INFO - Service websocket closed.
+2023-11-01 09:01:22,713 - INFO - Disconnected from OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[6]
+2023-11-01 09:01:22,714 - INFO - Closing all open web stream sockets (0)
+2023-11-01 09:01:22,714 - INFO - Sleeping for 13 seconds before trying again.
+2023-11-01 09:01:35,717 - INFO - Attempting to talk to OctoEverywhere, server con wss://starport-v1.octoeverywhere.com/octoclientws[7] wsId:4103662896
+2023-11-01 09:01:36,368 - INFO - Websocket connected
+2023-11-01 09:01:36,370 - INFO - Connected To OctoEverywhere, server con wss://starport-v1.octoeverywhere.com/octoclientws[7]. Starting handshake...
+2023-11-01 09:01:36,563 - INFO - Handshake complete, server con wss://starport-v1.octoeverywhere.com/octoclientws[7], successfully connected to OctoEverywhere!
+2023-11-01 09:01:36,563 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
