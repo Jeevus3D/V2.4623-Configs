@@ -209,3 +209,45 @@
 2023-11-01 20:34:43,057 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[8]. Starting handshake...
 2023-11-01 20:34:48,232 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[8], successfully connected to OctoEverywhere!
 2023-11-01 20:34:48,233 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-11-02 04:18:01,715 - ERROR - OctoEverywhere Ws error: Connection to remote host was lost.
+2023-11-02 04:18:01,715 - ERROR - Connection to remote host was lost. - goodbye
+2023-11-02 04:18:01,717 - INFO - Service websocket closed.
+2023-11-02 04:18:01,722 - INFO - Disconnected from OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[8]
+2023-11-02 04:18:01,724 - INFO - Closing all open web stream sockets (0)
+2023-11-02 04:18:01,725 - INFO - Sleeping for 6 seconds before trying again.
+2023-11-02 04:18:07,731 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-11-02 04:18:07,733 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[9] wsId:4141111688
+2023-11-02 04:18:08,862 - INFO - Websocket connected
+2023-11-02 04:18:08,864 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[9]. Starting handshake...
+2023-11-02 04:18:14,701 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[9], successfully connected to OctoEverywhere!
+2023-11-02 04:18:14,701 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-11-02 04:51:38,391 - INFO - Gadget is now watching!
+2023-11-02 04:51:38,396 - INFO - FileMetadataCache updated for file [SmolNozzle/PLA/2DS Replacement Lid Cover.gcode]; est time: 1251.0, size: 372, filament usage: 3388
+2023-11-02 04:51:38,396 - INFO - Gadget has stopped watching!
+2023-11-02 04:51:38,397 - INFO - RepeatTimer thread exit
+2023-11-02 04:51:38,399 - INFO - RepeatTimer thread exit
+2023-11-02 04:51:38,400 - INFO - RepeatTimer thread exit
+2023-11-02 04:51:38,401 - INFO - Gadget is now watching!
+2023-11-02 04:51:38,405 - INFO - New print started; PrintId: S1W24x0cgZGzhIImW1eUegUPMIHMxr7VUehOKWoM5ublC1LuAWGAGSgwzC0N file:SmolNozzle/PLA/2DS Replacement Lid Cover.gcode size:372 filament:3388
+2023-11-02 04:51:40,526 - INFO - Popup Notification Received. Title:🎥 Share Your Print; Text:Instantly share a <strong>free and secure live stream</strong> of this print with your friends or the entire world using OctoEverywhere's new Live Links!; Type:notice; ShowFor:5 OnlyOe: False
+2023-11-02 04:51:40,652 - INFO - NotificationsHandler successfully sent 'resume'
+2023-11-02 04:51:41,001 - INFO - NotificationsHandler successfully sent 'started'
+2023-11-02 04:52:08,718 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-02 04:52:39,054 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-02 04:53:09,396 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-02 04:53:39,732 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-02 04:54:10,080 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-02 04:54:40,415 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-02 04:55:01,235 - INFO - First layer timer is done. Stopping.
+2023-11-02 04:55:01,235 - INFO - RepeatTimer thread exit
+2023-11-02 04:55:04,083 - INFO - NotificationsHandler successfully sent 'thirdlayerdone'
+2023-11-02 04:55:04,397 - INFO - NotificationsHandler successfully sent 'firstlayerdone'
+2023-11-02 04:55:13,791 - INFO - Gadget HostLock set to: gadget-lon.octoeverywhere.com
+2023-11-02 04:56:00,915 - INFO - NotificationsHandler successfully sent 'progress'
+2023-11-02 04:59:44,757 - INFO - NotificationsHandler successfully sent 'progress'
+2023-11-02 05:05:40,208 - INFO - NotificationsHandler successfully sent 'progress'
+2023-11-02 05:09:19,659 - INFO - NotificationsHandler successfully sent 'progress'
+2023-11-02 05:16:36,289 - INFO - Gadget has stopped watching!
+2023-11-02 05:16:36,289 - INFO - RepeatTimer thread exit
+2023-11-02 05:16:36,734 - INFO - RepeatTimer thread exit
+2023-11-02 05:16:38,836 - INFO - NotificationsHandler successfully sent 'done'
