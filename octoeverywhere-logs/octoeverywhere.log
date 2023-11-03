@@ -306,3 +306,1080 @@
 2023-11-02 23:09:59,683 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[4]. Starting handshake...
 2023-11-02 23:10:02,112 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[4], successfully connected to OctoEverywhere!
 2023-11-02 23:10:02,112 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-11-03 04:02:53,927 - INFO - Gadget HostLock cleared
+2023-11-03 04:02:53,928 - INFO - Gadget is now watching!
+2023-11-03 04:02:53,933 - INFO - FileMetadataCache updated for file [SmolNozzle/ABS/Galileo 2 - Full Set.gcode]; est time: 13085.0, size: 22503, filament usage: 23680
+2023-11-03 04:02:53,933 - INFO - Gadget has stopped watching!
+2023-11-03 04:02:53,934 - INFO - RepeatTimer thread exit
+2023-11-03 04:02:53,934 - INFO - RepeatTimer thread exit
+2023-11-03 04:02:53,935 - INFO - RepeatTimer thread exit
+2023-11-03 04:02:53,936 - INFO - Gadget is now watching!
+2023-11-03 04:02:53,938 - INFO - New print started; PrintId: sBRF5KEhrNlZPbCgtmjr5qhLleoLWc8PEHR1iF7ArtF8zxUbwmjYNT4eJKxb file:SmolNozzle/ABS/Galileo 2 - Full Set.gcode size:22503 filament:23680
+2023-11-03 04:02:55,385 - INFO - NotificationsHandler successfully sent 'resume'
+2023-11-03 04:02:55,956 - INFO - NotificationsHandler successfully sent 'started'
+2023-11-03 04:03:24,265 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:03:54,603 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:04:24,943 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:04:55,268 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:05:25,601 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:05:55,935 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:06:26,271 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:06:56,600 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:07:26,933 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:07:46,768 - INFO - First layer timer is done. Stopping.
+2023-11-03 04:07:46,769 - INFO - RepeatTimer thread exit
+2023-11-03 04:07:49,002 - INFO - NotificationsHandler successfully sent 'thirdlayerdone'
+2023-11-03 04:07:49,131 - INFO - NotificationsHandler successfully sent 'firstlayerdone'
+2023-11-03 04:07:59,668 - INFO - Gadget HostLock set to: gadget-fra.octoeverywhere.com
+2023-11-03 04:08:42,423 - INFO - Gadget has stopped watching!
+2023-11-03 04:08:42,423 - INFO - RepeatTimer thread exit
+2023-11-03 04:08:42,424 - INFO - RepeatTimer thread exit
+2023-11-03 04:08:45,320 - INFO - NotificationsHandler successfully sent 'paused'
+2023-11-03 04:09:12,261 - INFO - Gadget HostLock cleared
+2023-11-03 04:09:12,262 - INFO - Gadget is now watching!
+2023-11-03 04:09:13,846 - INFO - NotificationsHandler successfully sent 'resume'
+2023-11-03 04:09:14,261 - INFO - First layer timer is done. Stopping.
+2023-11-03 04:09:14,262 - INFO - RepeatTimer thread exit
+2023-11-03 04:09:44,676 - INFO - Gadget HostLock set to: gadget-nyc.octoeverywhere.com
+2023-11-03 04:34:01,690 - INFO - NotificationsHandler successfully sent 'progress'
+2023-11-03 04:45:15,142 - INFO - Gadget has stopped watching!
+2023-11-03 04:45:15,142 - INFO - RepeatTimer thread exit
+2023-11-03 04:45:15,987 - INFO - RepeatTimer thread exit
+2023-11-03 04:45:17,771 - INFO - NotificationsHandler successfully sent 'paused'
+2023-11-03 04:45:18,877 - INFO - NotificationsHandler successfully sent 'failed'
+2023-11-03 04:50:23,802 - INFO - FileMetadataCache updated for file [SmolNozzle/ABS/Galileo 2 - Full Set.gcode]; est time: 13085.0, size: 22503, filament usage: 23680
+2023-11-03 04:50:23,804 - INFO - Gadget HostLock cleared
+2023-11-03 04:50:23,804 - INFO - Gadget is now watching!
+2023-11-03 04:50:23,806 - INFO - New print started; PrintId: pjD8IUnZ3FrG9SdHeI7NIrJcE9JYCfdTnGD09ZnYLAlBMdW0cvOkRQpPYREi file:SmolNozzle/ABS/Galileo 2 - Full Set.gcode size:22503 filament:23680
+2023-11-03 04:50:26,654 - INFO - NotificationsHandler successfully sent 'started'
+2023-11-03 04:50:54,123 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:51:24,465 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:51:54,794 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:52:25,120 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:52:55,446 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:53:25,779 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:53:56,118 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 04:53:59,376 - INFO - First layer timer is done. Stopping.
+2023-11-03 04:53:59,377 - INFO - RepeatTimer thread exit
+2023-11-03 04:54:01,647 - INFO - NotificationsHandler successfully sent 'thirdlayerdone'
+2023-11-03 04:54:01,797 - INFO - NotificationsHandler successfully sent 'firstlayerdone'
+2023-11-03 04:54:30,370 - INFO - Gadget HostLock set to: gadget-tor.octoeverywhere.com
+2023-11-03 04:59:17,325 - INFO - Gadget has stopped watching!
+2023-11-03 04:59:17,326 - INFO - RepeatTimer thread exit
+2023-11-03 04:59:17,328 - INFO - RepeatTimer thread exit
+2023-11-03 04:59:21,066 - INFO - NotificationsHandler successfully sent 'paused'
+2023-11-03 04:59:21,649 - INFO - NotificationsHandler successfully sent 'failed'
+2023-11-03 04:59:36,631 - INFO - Moonraker client received notify_klippy_disconnected notification, so we will restart our client connection.
+2023-11-03 04:59:36,632 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 04:59:36,643 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 04:59:36,644 - INFO - Ignoring KlippyDisconnectedOrShutdown notification because we aren't tracking a print.
+2023-11-03 04:59:36,646 - INFO - Moonraker websocket connection closed.
+2023-11-03 04:59:36,646 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 04:59:38,652 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 04:59:38,662 - INFO - Websocket connected
+2023-11-03 04:59:38,664 - INFO - Moonraker client websocket opened.
+2023-11-03 04:59:38,666 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 04:59:38,667 - INFO - Authenticating with moonraker...
+2023-11-03 04:59:38,693 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 04:59:38,696 - INFO - Moonraker client got klippy state 'startup', waiting for ready...
+2023-11-03 04:59:42,714 - INFO - Moonraker client klippy state is ready. Moonraker connection is ready and stable.
+2023-11-03 04:59:42,715 - INFO - Moonraker client setting up default notification hooks
+2023-11-03 04:59:43,700 - INFO - Printer state at socket connect is: standby
+2023-11-03 04:59:43,701 - INFO - Moonraker client sync state: Detected no active print and no ping timers are running, so there's nothing to do.
+2023-11-03 05:02:32,643 - INFO - Moonraker client received notify_klippy_disconnected notification, so we will restart our client connection.
+2023-11-03 05:02:32,643 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:02:32,651 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:02:32,652 - INFO - Ignoring KlippyDisconnectedOrShutdown notification because we aren't tracking a print.
+2023-11-03 05:02:32,654 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:02:32,655 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:02:34,660 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:02:34,670 - INFO - Websocket connected
+2023-11-03 05:02:34,671 - INFO - Moonraker client websocket opened.
+2023-11-03 05:02:34,673 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:02:34,676 - INFO - Authenticating with moonraker...
+2023-11-03 05:02:34,700 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:02:34,704 - INFO - Moonraker client got klippy state 'startup', waiting for ready...
+2023-11-03 05:02:37,566 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:02:37,567 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:02:38,711 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-11-03 05:02:38,712 - INFO - Moonraker client failed to send JsonRPC request server.info
+2023-11-03 05:02:38,712 - ERROR - Moonraker client failed to send klippy ready query message. 99990001 - No active websocket connected.
+2023-11-03 05:02:38,714 - ERROR - Moonraker client exception in klippy waiting logic.; Exception Exception: Error returned from klippy state query. 99990001 - No active websocket connected.; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 553, in _AfterOpenReadyWaiter
+    raise Exception("Error returned from klippy state query. "+ str(result.GetLoggingErrorStr()))
+Exception: Error returned from klippy state query. 99990001 - No active websocket connected.
+
+2023-11-03 05:02:38,715 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:02:38,715 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:02:39,572 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:02:39,575 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:02:39,575 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:02:39,576 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:02:39,576 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:02:41,582 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:02:41,584 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:02:41,585 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:02:41,586 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:02:41,586 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:02:43,594 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:02:43,598 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:02:43,598 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:02:43,600 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:02:43,602 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:02:45,608 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:02:45,610 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:02:45,610 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:02:45,611 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:02:45,611 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:02:47,617 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:02:47,625 - INFO - Websocket connected
+2023-11-03 05:02:47,626 - INFO - Moonraker client websocket opened.
+2023-11-03 05:02:47,626 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:02:47,627 - INFO - Authenticating with moonraker...
+2023-11-03 05:02:55,888 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:02:55,894 - INFO - Moonraker client got klippy state 'shutdown', waiting for ready...
+2023-11-03 05:03:12,836 - INFO - Moonraker client received notify_klippy_disconnected notification, so we will restart our client connection.
+2023-11-03 05:03:12,837 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:03:12,839 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:03:12,840 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:03:12,841 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:03:14,292 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-11-03 05:03:14,294 - INFO - Moonraker client failed to send JsonRPC request server.info
+2023-11-03 05:03:14,295 - ERROR - Moonraker client failed to send klippy ready query message. 99990001 - No active websocket connected.
+2023-11-03 05:03:14,295 - ERROR - Moonraker client exception in klippy waiting logic.; Exception Exception: Error returned from klippy state query. 99990001 - No active websocket connected.; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 553, in _AfterOpenReadyWaiter
+    raise Exception("Error returned from klippy state query. "+ str(result.GetLoggingErrorStr()))
+Exception: Error returned from klippy state query. 99990001 - No active websocket connected.
+
+2023-11-03 05:03:14,296 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:03:14,296 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:03:14,846 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:03:14,854 - INFO - Websocket connected
+2023-11-03 05:03:14,855 - INFO - Moonraker client websocket opened.
+2023-11-03 05:03:14,856 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:03:14,856 - INFO - Authenticating with moonraker...
+2023-11-03 05:03:14,877 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:03:14,880 - INFO - Moonraker client got klippy state 'startup', waiting for ready...
+2023-11-03 05:03:18,888 - INFO - Moonraker client klippy state is ready. Moonraker connection is ready and stable.
+2023-11-03 05:03:18,889 - INFO - Moonraker client setting up default notification hooks
+2023-11-03 05:03:19,409 - INFO - Printer state at socket connect is: standby
+2023-11-03 05:03:19,410 - INFO - Moonraker client sync state: Detected no active print and no ping timers are running, so there's nothing to do.
+2023-11-03 05:05:12,320 - INFO - ##################################
+2023-11-03 05:05:12,343 - INFO - #### OctoEverywhere Starting #####
+2023-11-03 05:05:12,344 - INFO - ##################################
+2023-11-03 05:05:12,351 - INFO - Plugin Version: 2.8.2
+2023-11-03 05:05:12,359 - INFO - Our existing update config file include was found in the moonraker config.
+2023-11-03 05:05:12,362 - INFO - Existing update config file found with the correct file contents.
+2023-11-03 05:05:12,374 - INFO - mDns Cache file loaded. Cached Entries Found: 0
+2023-11-03 05:05:12,376 - INFO - Setting up relay with frontend port 80
+2023-11-03 05:05:12,378 - INFO - OctoPingPong stats loaded from file.
+2023-11-03 05:05:12,391 - INFO - MoonrakerApiRouter using bound to moonraker at 0.0.0.0:7125
+2023-11-03 05:05:12,393 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-11-03 05:05:12,394 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[1] wsId:4131226432
+2023-11-03 05:05:12,803 - INFO - Websocket connected
+2023-11-03 05:05:12,807 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[1]. Starting handshake...
+2023-11-03 05:05:13,109 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[1], successfully connected to OctoEverywhere!
+2023-11-03 05:05:13,109 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-11-03 05:05:13,110 - INFO - Starting Moonraker connection client.
+2023-11-03 05:05:13,111 - INFO - Moonraker client starting websocket connection thread.
+2023-11-03 05:05:13,115 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:05:13,118 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:05:13,118 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:05:13,120 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:05:13,120 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:05:15,126 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:05:15,128 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:05:15,131 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:05:15,132 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:05:15,132 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:05:17,138 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:05:17,140 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:05:17,140 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:05:17,141 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:05:17,141 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:05:17,384 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-11-03 05:05:17,385 - INFO - Moonraker client failed to send JsonRPC request server.webcams.list
+2023-11-03 05:05:17,385 - WARNING - Moonraker webcam helper failed to query for webcams from API. 99990001 - No active websocket connected.
+2023-11-03 05:05:17,386 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-11-03 05:05:17,386 - INFO - Moonraker client failed to send JsonRPC request server.database.get_item
+2023-11-03 05:05:17,387 - WARNING - Moonraker webcam helper failed to query for webcams. 99990001 - No active websocket connected.
+2023-11-03 05:05:19,148 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:05:19,151 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:05:19,151 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:05:19,152 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:05:19,153 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:05:21,158 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:05:21,165 - INFO - Websocket connected
+2023-11-03 05:05:21,166 - INFO - Moonraker client websocket opened.
+2023-11-03 05:05:21,167 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:05:21,168 - INFO - Authenticating with moonraker...
+2023-11-03 05:05:21,191 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:05:21,193 - INFO - Moonraker client klippy state is ready. Moonraker connection is ready and stable.
+2023-11-03 05:05:21,194 - INFO - Moonraker client setting up default notification hooks
+2023-11-03 05:05:21,587 - INFO - Printer state at socket connect is: standby
+2023-11-03 05:05:21,587 - INFO - Moonraker client sync state: Detected no active print and no ping timers are running, so there's nothing to do.
+2023-11-03 05:05:54,355 - INFO - Moonraker client received notify_klippy_shutdown notification, so we will restart our client connection.
+2023-11-03 05:05:54,356 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:05:54,358 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:05:54,359 - INFO - Ignoring KlippyDisconnectedOrShutdown notification because we aren't tracking a print.
+2023-11-03 05:05:54,359 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:05:54,360 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:05:56,365 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:05:56,373 - INFO - Websocket connected
+2023-11-03 05:05:56,374 - INFO - Moonraker client websocket opened.
+2023-11-03 05:05:56,374 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:05:56,375 - INFO - Authenticating with moonraker...
+2023-11-03 05:05:56,396 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:05:56,400 - INFO - Moonraker client got klippy state 'shutdown', waiting for ready...
+2023-11-03 05:06:04,558 - INFO - Moonraker client received notify_klippy_disconnected notification, so we will restart our client connection.
+2023-11-03 05:06:04,559 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:06:04,562 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:06:04,565 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:06:04,566 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:06:06,422 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-11-03 05:06:06,422 - INFO - Moonraker client failed to send JsonRPC request server.info
+2023-11-03 05:06:06,422 - ERROR - Moonraker client failed to send klippy ready query message. 99990001 - No active websocket connected.
+2023-11-03 05:06:06,429 - ERROR - Moonraker client exception in klippy waiting logic.; Exception Exception: Error returned from klippy state query. 99990001 - No active websocket connected.; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 553, in _AfterOpenReadyWaiter
+    raise Exception("Error returned from klippy state query. "+ str(result.GetLoggingErrorStr()))
+Exception: Error returned from klippy state query. 99990001 - No active websocket connected.
+
+2023-11-03 05:06:06,429 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:06:06,430 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:06:06,573 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:06:06,583 - INFO - Websocket connected
+2023-11-03 05:06:06,584 - INFO - Moonraker client websocket opened.
+2023-11-03 05:06:06,585 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:06:06,586 - INFO - Authenticating with moonraker...
+2023-11-03 05:06:06,612 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:06:06,615 - INFO - Moonraker client got klippy state 'startup', waiting for ready...
+2023-11-03 05:06:10,625 - INFO - Moonraker client klippy state is ready. Moonraker connection is ready and stable.
+2023-11-03 05:06:10,626 - INFO - Moonraker client setting up default notification hooks
+2023-11-03 05:06:11,116 - INFO - Printer state at socket connect is: standby
+2023-11-03 05:06:11,117 - INFO - Moonraker client sync state: Detected no active print and no ping timers are running, so there's nothing to do.
+2023-11-03 05:07:19,890 - INFO - Moonraker client received notify_klippy_disconnected notification, so we will restart our client connection.
+2023-11-03 05:07:19,891 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:07:19,893 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:07:19,893 - INFO - Ignoring KlippyDisconnectedOrShutdown notification because we aren't tracking a print.
+2023-11-03 05:07:19,895 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:07:19,896 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:21,899 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:21,900 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:21,900 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:23,903 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:23,903 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:23,904 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:25,906 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:25,907 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:25,908 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:27,910 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:27,911 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:27,911 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:29,914 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:29,915 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:29,915 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:31,918 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:31,919 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:31,919 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:33,922 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:33,923 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:33,923 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:35,926 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:35,927 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:35,927 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:37,930 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:37,930 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:37,931 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:39,933 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:39,934 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:39,935 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:41,937 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:41,938 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:41,939 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:43,941 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:43,943 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:43,944 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:45,946 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:45,947 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:45,948 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:47,950 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:47,951 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:47,951 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:49,954 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:49,956 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:49,956 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:51,959 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:51,960 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:51,960 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:53,963 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:53,964 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:53,964 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:55,966 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:55,967 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:55,968 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:57,970 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:57,971 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:57,972 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:07:59,974 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:07:59,975 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:07:59,976 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:01,978 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:01,979 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:01,980 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:03,982 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:03,983 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:03,983 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:05,986 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:05,987 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:05,987 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:07,995 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:07,996 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:07,996 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:09,998 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:09,999 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:10,000 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:12,002 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:12,004 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:12,005 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:14,008 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:14,008 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:14,009 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:16,011 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:16,012 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:16,012 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:18,015 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:18,016 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:18,016 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:20,019 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:20,020 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:20,020 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:22,022 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:22,023 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:22,024 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:24,026 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:24,027 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:24,028 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:26,030 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:26,031 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:26,031 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:28,034 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:28,035 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:28,035 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:30,038 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:30,039 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:30,039 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:32,042 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:32,043 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:32,043 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:34,046 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:34,047 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:34,047 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:36,050 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:36,051 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:36,051 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:38,054 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:38,054 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:38,055 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:40,058 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:40,059 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:40,060 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:42,063 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:42,064 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:42,064 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:44,066 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:44,067 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:44,068 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:46,070 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:46,071 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:46,072 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:48,074 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:48,075 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:48,076 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:50,078 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:50,079 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:50,079 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:52,082 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:52,083 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:52,083 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:54,086 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:54,087 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:54,087 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:56,090 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:56,090 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:56,091 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:08:58,093 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:08:58,382 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:08:58,382 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:00,385 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:00,385 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:00,386 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:02,389 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:02,390 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:02,391 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:04,394 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:04,395 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:04,395 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:06,398 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:06,399 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:06,399 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:08,402 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:08,404 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:08,404 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:10,407 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:10,408 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:10,409 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:12,411 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:12,412 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:12,412 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:14,415 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:14,416 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:14,416 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:16,419 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:16,420 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:16,420 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:18,423 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:18,423 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:18,424 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:20,426 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:20,427 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:20,428 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:22,430 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:22,431 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:22,432 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:24,434 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:24,435 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:24,436 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:26,438 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:26,439 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:26,439 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:28,442 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:28,443 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:28,443 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:30,446 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:30,447 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:30,447 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:32,450 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:32,451 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:32,451 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:34,454 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:34,454 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:34,455 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:36,458 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:36,458 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:36,459 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:38,461 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:38,462 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:38,463 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:40,465 - ERROR - Moonraker client failed to find a moonraker config. Re-run the ./install.sh script from the OctoEverywhere repo to update the path.
+2023-11-03 05:09:40,466 - ERROR - Moonraker client exception in main WS loop.; Exception Exception: No config file found; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 454, in _WebSocketWorkerThread
+    self._UpdateMoonrakerHostAndPort()
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 152, in _UpdateMoonrakerHostAndPort
+    raise Exception("No config file found")
+Exception: No config file found
+
+2023-11-03 05:09:40,466 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:09:42,469 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:09:42,483 - INFO - Websocket connected
+2023-11-03 05:09:42,484 - INFO - Moonraker client websocket opened.
+2023-11-03 05:09:42,486 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:09:42,487 - INFO - Authenticating with moonraker...
+2023-11-03 05:09:42,588 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:09:42,595 - INFO - Moonraker client klippy state is ready. Moonraker connection is ready and stable.
+2023-11-03 05:09:42,596 - INFO - Moonraker client setting up default notification hooks
+2023-11-03 05:09:42,957 - INFO - Printer state at socket connect is: standby
+2023-11-03 05:09:42,958 - INFO - Moonraker client sync state: Detected no active print and no ping timers are running, so there's nothing to do.
+2023-11-03 05:10:40,349 - INFO - Moonraker client received notify_klippy_disconnected notification, so we will restart our client connection.
+2023-11-03 05:10:40,350 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:10:40,353 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:10:40,353 - INFO - Ignoring KlippyDisconnectedOrShutdown notification because we aren't tracking a print.
+2023-11-03 05:10:40,355 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:10:40,355 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:10:42,361 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:10:42,369 - INFO - Websocket connected
+2023-11-03 05:10:42,371 - INFO - Moonraker client websocket opened.
+2023-11-03 05:10:42,372 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:10:42,373 - INFO - Authenticating with moonraker...
+2023-11-03 05:10:42,394 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:10:42,398 - INFO - Moonraker client got klippy state 'startup', waiting for ready...
+2023-11-03 05:11:43,298 - INFO - ##################################
+2023-11-03 05:11:43,304 - INFO - #### OctoEverywhere Starting #####
+2023-11-03 05:11:43,305 - INFO - ##################################
+2023-11-03 05:11:43,307 - INFO - Plugin Version: 2.8.2
+2023-11-03 05:11:43,308 - INFO - Our existing update config file include was found in the moonraker config.
+2023-11-03 05:11:43,309 - INFO - Existing update config file found with the correct file contents.
+2023-11-03 05:11:43,322 - INFO - mDns Cache file loaded. Cached Entries Found: 0
+2023-11-03 05:11:43,325 - INFO - Setting up relay with frontend port 80
+2023-11-03 05:11:43,327 - INFO - OctoPingPong stats loaded from file.
+2023-11-03 05:11:43,341 - INFO - MoonrakerApiRouter using bound to moonraker at 0.0.0.0:7125
+2023-11-03 05:11:43,347 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-11-03 05:11:43,348 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[1] wsId:4134314816
+2023-11-03 05:11:43,735 - INFO - Websocket connected
+2023-11-03 05:11:43,736 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[1]. Starting handshake...
+2023-11-03 05:11:43,999 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[1], successfully connected to OctoEverywhere!
+2023-11-03 05:11:44,000 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-11-03 05:11:44,000 - INFO - Starting Moonraker connection client.
+2023-11-03 05:11:44,001 - INFO - Moonraker client starting websocket connection thread.
+2023-11-03 05:11:44,006 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:11:44,008 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:11:44,009 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:11:44,011 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:11:44,012 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:11:46,016 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:11:46,019 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:11:46,019 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:11:46,020 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:11:46,020 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:11:48,024 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:11:48,026 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:11:48,026 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:11:48,027 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:11:48,028 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:11:48,336 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-11-03 05:11:48,336 - INFO - Moonraker client failed to send JsonRPC request server.webcams.list
+2023-11-03 05:11:48,337 - WARNING - Moonraker webcam helper failed to query for webcams from API. 99990001 - No active websocket connected.
+2023-11-03 05:11:48,337 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-11-03 05:11:48,338 - INFO - Moonraker client failed to send JsonRPC request server.database.get_item
+2023-11-03 05:11:48,338 - WARNING - Moonraker webcam helper failed to query for webcams. 99990001 - No active websocket connected.
+2023-11-03 05:11:50,033 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:11:50,035 - ERROR - Exception rased from moonraker client websocket connection. The connection will be closed.; ConnectionRefusedError Exception: [Errno 111] Connection refused; NoneType: None
+
+2023-11-03 05:11:50,035 - ERROR - [Errno 111] Connection refused - goodbye
+2023-11-03 05:11:50,036 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:11:50,036 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:11:52,041 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:11:52,049 - INFO - Websocket connected
+2023-11-03 05:11:52,050 - INFO - Moonraker client websocket opened.
+2023-11-03 05:11:52,051 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:11:52,051 - INFO - Authenticating with moonraker...
+2023-11-03 05:11:52,083 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:11:52,094 - INFO - Moonraker client got klippy state 'error', waiting for ready...
+2023-11-03 05:12:46,272 - INFO - Moonraker client received notify_klippy_disconnected notification, so we will restart our client connection.
+2023-11-03 05:12:46,272 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:12:46,275 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:12:46,276 - INFO - Moonraker websocket connection closed.
+2023-11-03 05:12:46,277 - INFO - Moonraker client websocket connection lost. We will try to restart it soon.
+2023-11-03 05:12:47,523 - INFO - Moonraker client - tired to send a websocket message when the socket wasn't open.
+2023-11-03 05:12:47,524 - INFO - Moonraker client failed to send JsonRPC request server.info
+2023-11-03 05:12:47,524 - ERROR - Moonraker client failed to send klippy ready query message. 99990001 - No active websocket connected.
+2023-11-03 05:12:47,531 - ERROR - Moonraker client exception in klippy waiting logic.; Exception Exception: Error returned from klippy state query. 99990001 - No active websocket connected.; Traceback (most recent call last):
+  File "/home/pi/octoeverywhere/moonraker_octoeverywhere/moonrakerclient.py", line 553, in _AfterOpenReadyWaiter
+    raise Exception("Error returned from klippy state query. "+ str(result.GetLoggingErrorStr()))
+Exception: Error returned from klippy state query. 99990001 - No active websocket connected.
+
+2023-11-03 05:12:47,532 - INFO - Moonraker client websocket shutdown called.
+2023-11-03 05:12:47,532 - INFO - Moonraker client websocket shutdown complete.
+2023-11-03 05:12:48,282 - INFO - Connecting to moonraker: ws://0.0.0.0:7125/websocket
+2023-11-03 05:12:48,291 - INFO - Websocket connected
+2023-11-03 05:12:48,292 - INFO - Moonraker client websocket opened.
+2023-11-03 05:12:48,293 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:12:48,294 - INFO - Authenticating with moonraker...
+2023-11-03 05:12:48,319 - INFO - Moonraker client waiting for klippy ready...
+2023-11-03 05:12:48,324 - INFO - Moonraker client got klippy state 'startup', waiting for ready...
+2023-11-03 05:12:52,336 - INFO - Moonraker client klippy state is ready. Moonraker connection is ready and stable.
+2023-11-03 05:12:52,336 - INFO - Moonraker client setting up default notification hooks
+2023-11-03 05:12:52,836 - INFO - Printer state at socket connect is: standby
+2023-11-03 05:12:52,836 - INFO - Moonraker client sync state: Detected no active print and no ping timers are running, so there's nothing to do.
+2023-11-03 05:18:28,695 - INFO - Gadget is now watching!
+2023-11-03 05:18:28,700 - INFO - FileMetadataCache updated for file [SmolNozzle/ABS/Galileo 2 - Full Set.gcode]; est time: 13085.0, size: 22503, filament usage: 23680
+2023-11-03 05:18:28,701 - INFO - Gadget has stopped watching!
+2023-11-03 05:18:28,701 - INFO - RepeatTimer thread exit
+2023-11-03 05:18:28,703 - INFO - RepeatTimer thread exit
+2023-11-03 05:18:28,701 - INFO - RepeatTimer thread exit
+2023-11-03 05:18:28,704 - INFO - Gadget is now watching!
+2023-11-03 05:18:28,706 - INFO - New print started; PrintId: 3sbNRggvy7Muf5oSv6c20oW4rQbdNnrBVC4hh0nrPWcVATHeXLng2gy23qcB file:SmolNozzle/ABS/Galileo 2 - Full Set.gcode size:22503 filament:23680
+2023-11-03 05:18:29,465 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:18:29,476 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:18:30,305 - INFO - NotificationsHandler successfully sent 'resume'
+2023-11-03 05:18:30,581 - INFO - NotificationsHandler successfully sent 'started'
+2023-11-03 05:18:59,021 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 05:19:29,358 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 05:19:59,694 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 05:20:30,035 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 05:21:00,363 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 05:21:30,700 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 05:22:01,029 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 05:22:31,360 - INFO - Waiting to predict with Gadget because the printer is warming up.
+2023-11-03 05:22:56,171 - INFO - First layer timer is done. Stopping.
+2023-11-03 05:22:56,173 - INFO - RepeatTimer thread exit
+2023-11-03 05:22:56,970 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:22:56,981 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:22:57,657 - INFO - NotificationsHandler successfully sent 'thirdlayerdone'
+2023-11-03 05:22:57,714 - INFO - NotificationsHandler successfully sent 'firstlayerdone'
+2023-11-03 05:23:02,460 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:25:03,271 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:27:04,095 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:29:04,896 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:31:05,687 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:33:06,520 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:33:50,319 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:33:50,320 - WARNING - Web Stream http [2]  failed to make http request. octoHttpResult was None; url:/webcam/?action=snapshot
+2023-11-03 05:33:54,685 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:33:54,689 - WARNING - Web Stream http [4]  failed to make http request. octoHttpResult was None; url:/webcam/?action=snapshot
+2023-11-03 05:34:14,167 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:34:14,169 - WARNING - Web Stream http [5]  failed to make http request. octoHttpResult was None; url:/webcam/?action=snapshot
+2023-11-03 05:34:18,749 - INFO - Starting a secondary connection to wss://nyc.octoeverywhere.com/octoclientws method 2
+2023-11-03 05:34:18,751 - INFO - Attempting to talk to OctoEverywhere, server con wss://nyc.octoeverywhere.com/octoclientws[1] wsId:4115190904
+2023-11-03 05:34:19,111 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:34:19,114 - WARNING - Web Stream http [7]  failed to make http request. octoHttpResult was None; url:/webcam/?action=snapshot
+2023-11-03 05:34:19,205 - INFO - Websocket connected
+2023-11-03 05:34:19,206 - INFO - Connected To OctoEverywhere, server con wss://nyc.octoeverywhere.com/octoclientws[1]. Starting handshake...
+2023-11-03 05:34:19,335 - INFO - Handshake complete, server con wss://nyc.octoeverywhere.com/octoclientws[1], successfully connected to OctoEverywhere!
+2023-11-03 05:34:21,156 - INFO - Websocket connected
+2023-11-03 05:34:21,159 - INFO - Web Stream ws   [7] opened, attempt 1 after 0.018451452255249023 seconds
+2023-11-03 05:34:21,229 - INFO - Web Stream ws   [7] first message sent to local server after 0.0880284309387207 seconds
+2023-11-03 05:34:22,416 - INFO - Web Stream ws   [7] websocket closed after 1.275641918182373 seconds
+2023-11-03 05:34:22,468 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:34:22,470 - WARNING - Web Stream http [8]  failed to make http request. octoHttpResult was None; url:/webcam/?action=snapshot
+2023-11-03 05:35:07,317 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:35:09,211 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:35:09,214 - WARNING - Web Stream http [10]  failed to make http request. octoHttpResult was None; url:/webcam/?action=snapshot
+2023-11-03 05:37:08,143 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:39:09,043 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:41:09,886 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:43:10,721 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:45:11,547 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:47:12,390 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:49:13,214 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:50:18,752 - INFO - Server con wss://nyc.octoeverywhere.com/octoclientws[1] IS past it's RunFor time 0:16:00.001987 and IS past it's time since last user activity 0:15:56.336586
+2023-11-03 05:50:18,753 - INFO - Server con wss://nyc.octoeverywhere.com/octoclientws[1] RunFor is complete and will be disconnected.
+2023-11-03 05:50:18,753 - INFO - Closing all open web stream sockets (0)
+2023-11-03 05:50:18,753 - INFO - OctoServerCon websocket close start. IsPrimary?:False; wsId:4115190904
+2023-11-03 05:50:18,956 - INFO - Service websocket closed.
+2023-11-03 05:50:18,956 - INFO - OctoServerCon disconnect complete.
+2023-11-03 05:50:18,959 - INFO - Disconnected from OctoEverywhere, server con wss://nyc.octoeverywhere.com/octoclientws[1]
+2023-11-03 05:50:18,960 - INFO - Closing all open web stream sockets (0)
+2023-11-03 05:50:18,961 - INFO - Server con wss://nyc.octoeverywhere.com/octoclientws[1] IS past it's RunFor time 0:16:00.210568 and IS past it's time since last user activity 0:15:56.545161
+2023-11-03 05:50:18,961 - INFO - Server con wss://nyc.octoeverywhere.com/octoclientws[1] RunFor is complete, disconnected, and exiting the main thread.
+2023-11-03 05:50:18,961 - INFO - RepeatTimer thread exit
+2023-11-03 05:50:18,962 - INFO - Secondary connection to wss://nyc.octoeverywhere.com/octoclientws has ended
+2023-11-03 05:51:14,036 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:53:14,901 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:55:15,711 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:57:16,544 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
+2023-11-03 05:59:17,401 - INFO - Snapshot fallback failed due to the http call having a bad status: 502
