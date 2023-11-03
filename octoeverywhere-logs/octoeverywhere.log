@@ -282,3 +282,27 @@
 2023-11-02 17:55:52,927 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[2]. Starting handshake...
 2023-11-02 17:55:55,020 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[2], successfully connected to OctoEverywhere!
 2023-11-02 17:55:55,021 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-11-02 18:04:02,698 - ERROR - OctoEverywhere Ws error: Connection to remote host was lost.
+2023-11-02 18:04:02,698 - ERROR - Connection to remote host was lost. - goodbye
+2023-11-02 18:04:02,701 - INFO - Service websocket closed.
+2023-11-02 18:04:02,703 - INFO - Disconnected from OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[2]
+2023-11-02 18:04:02,705 - INFO - Closing all open web stream sockets (0)
+2023-11-02 18:04:02,706 - INFO - Sleeping for 10 seconds before trying again.
+2023-11-02 18:04:12,708 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-11-02 18:04:12,709 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[3] wsId:4136450320
+2023-11-02 18:04:13,359 - INFO - Websocket connected
+2023-11-02 18:04:13,362 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[3]. Starting handshake...
+2023-11-02 18:04:17,168 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[3], successfully connected to OctoEverywhere!
+2023-11-02 18:04:17,169 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
+2023-11-02 23:09:51,718 - ERROR - OctoEverywhere Ws error: Connection to remote host was lost.
+2023-11-02 23:09:51,718 - ERROR - Connection to remote host was lost. - goodbye
+2023-11-02 23:09:51,720 - INFO - Service websocket closed.
+2023-11-02 23:09:51,725 - INFO - Disconnected from OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[3]
+2023-11-02 23:09:51,728 - INFO - Closing all open web stream sockets (0)
+2023-11-02 23:09:51,729 - INFO - Sleeping for 7 seconds before trying again.
+2023-11-02 23:09:58,737 - INFO - Attempting to use lowest latency server: wss://tor.octoeverywhere.com/octoclientws
+2023-11-02 23:09:58,738 - INFO - Attempting to talk to OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[4] wsId:4136450224
+2023-11-02 23:09:59,682 - INFO - Websocket connected
+2023-11-02 23:09:59,683 - INFO - Connected To OctoEverywhere, server con wss://tor.octoeverywhere.com/octoclientws[4]. Starting handshake...
+2023-11-02 23:10:02,112 - INFO - Handshake complete, server con wss://tor.octoeverywhere.com/octoclientws[4], successfully connected to OctoEverywhere!
+2023-11-02 23:10:02,112 - INFO - Primary Connection To OctoEverywhere Established - We Are Ready To Go!
